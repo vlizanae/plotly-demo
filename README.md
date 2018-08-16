@@ -6,7 +6,6 @@ Plotly + Dash material for the U-planner talk on 2018-08-16.
 
 * Comment the code.
 
----
 ## Usage:
 
 #### Only running the application:
